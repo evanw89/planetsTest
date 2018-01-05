@@ -1,0 +1,10 @@
+#test, #test2, #test3 {
+	height: 100px;
+	background-color: tomato;
+}
+#test2 {
+	background-color: purple;
+}
+#test3 {
+	background-color: lime;
+}
